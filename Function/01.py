@@ -5,12 +5,14 @@ def greet():
 
 greet()
 
+
 #Function with no arguments
 print("--------------Ex2-----------")
 def fun():
     print("Sanika kale","Amaravati")
 
 fun()
+
 
 #Function with one argument
 print("--------------Ex3-----------")
