@@ -6,7 +6,7 @@ def greet():
 greet()
 
 
-#Function with no arguments
+#05_Function with no arguments
 print("--------------Ex2-----------")
 def fun():
     print("Sanika kale","Amaravati")
@@ -14,7 +14,7 @@ def fun():
 fun()
 
 
-#Function with one argument
+#05_Function with one argument
 print("--------------Ex3-----------")
 def greet(name):
     print("Hello,",name)

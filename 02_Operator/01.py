@@ -52,8 +52,8 @@ print(not 9>13)
 
 
 
-print('s' in 'praffull')
-print('s' not in 'praffull')
+print('s' in 'Sanika')
+print('s' not in 'sanika')
 
 lst=['soham','praffull','sharayu','tejas','vijay']
 print('megha' in lst)

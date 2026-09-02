@@ -1,4 +1,4 @@
-# if else Conditional Statement
+# if else 03_Conditional Statement
 marks=int(input("Enter marks="))
 if marks >=35:
     print("Pass")

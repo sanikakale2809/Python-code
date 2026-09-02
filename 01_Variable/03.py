@@ -1,13 +1,13 @@
 #variable
-#1: Variable declaration
-studentName="Sanika"                    #VariableName="Variable Value"   -> Syntax
+#1: 01_Variable declaration
+studentName="Sanika"                    #VariableName="01_Variable Value"   -> Syntax
 studentDept="EXTC"
 studentRollNum=101
 studentPercentage=65.1
 studentGrade="A"
 
 
-#2: Variable usage
+#2: 01_Variable usage
 print(studentName)
 print(studentDept)
 print(studentRollNum)
