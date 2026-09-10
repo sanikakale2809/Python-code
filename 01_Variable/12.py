@@ -1,5 +1,12 @@
 #cube of number
-num=int(input("Enter a number="))
-#cube=num*num*num
-cube=num**3
+a=int(input("Value of a:"))
+b=int(input("Value of b:"))
+cube=a**3
 print(cube)
+
+
+
+
+
+
+
