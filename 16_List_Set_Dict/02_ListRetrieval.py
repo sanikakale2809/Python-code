@@ -7,10 +7,15 @@ print(films)
 
 # print variable according to index
 print(films[5])
+# list slicing
 print(films[1:5])
 print(films[2:])
 print(films[:4])
 print(films[-1])
 
-#Reverse List
+# Reverse List(1)
 print(films[::-1])
+
+# Reverse List(2)
+films.reverse()
+print(films)
