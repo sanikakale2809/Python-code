@@ -18,8 +18,9 @@ print( )
 #  ****
 
 print("---------------2ed apr------------")
+n=int(input("Enter the number:"))
 star=1
-for i in range(4):
+for i in range(n):
     for j in range(star):
         print("*",end="")
     print()
@@ -32,8 +33,9 @@ for i in range(4):
 # *******
 
 print("---------------3rd apr------------")
+n=int(input("Enter the number:"))
 star = 1
-for i in range(4):
+for i in range(n):
     for j in range(star):
         print("*", end="")
     print()
